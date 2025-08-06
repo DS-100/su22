@@ -7,7 +7,7 @@ description: >-
 markdown: kramdown
 course:
     edstem: https://edstem.org/us/courses/23165
-    faq: https://ds100.org/su22faq
+    faq: https://ds100.org/faqs/su22
     bcourses: ""
     head_ta: Andrew Lenz
     head_email: andrew.lenz@berkeley.edu
