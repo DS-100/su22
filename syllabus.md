@@ -158,7 +158,7 @@ Virtual OH can be accessed via [oh.ds100.org](https://oh.ds100.org/), where stud
 <!-- where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff. -->
 <!-- - We are also holding "lost office hours" once a week. These are designed to accommodate students who are behind on material and would like help catching up. These are meant for conceptual questions only, not for assignment help. These will also be reflected on the [Calendar](../calendar). -->
 
-**EdStem**, or **Ed** for short, is our course forum this summer. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ](page.course.faq) page first before emailing instructors. 
+**EdStem**, or **Ed** for short, is our course forum this summer. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ](https://ds100.org/faqs/su22) page first before emailing instructors. 
 
 **Staff email**:
 You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the instructors will get back to you. Note that to ensure more timely responses, this address is monitored by the two instructors (Anirudhan and Dominic), as well as several lead GSIs, to ensure more timely responses. You can contact Anirudhan and Dominic directly for matters that require strict privacy and their direct attention.
