@@ -4,6 +4,9 @@ title: Lecture 18 – SQL II and PCA I
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 18 – SQL II
 
 Presented by Anirudhan Badrinath and Dominic Liu
